@@ -6,9 +6,10 @@ Execute in below order:
 javac Palindrome.java
 javac PalindromeDriver.java
 
-java Palindrome
+java PalindromeDriver
 
-Input in the below way and followed by Test cases:
+/** Input in the below way and followed by Test cases: 
+
 
 Enter all numbers here with space delimeted --> 5 7997 7843785 356777 23 99
 
