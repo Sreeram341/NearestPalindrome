@@ -1,11 +1,16 @@
 Please complie the Java code and start the main Driver class by caling java PalindromeDriver.
-
 Pass the inputs on the response from the program in this format "2 809 2136" you can view the results accordingly.
 
-Test cases:
+Execute in below order:
 
-Enter all numbers here with space delimeted --> 
-5 7997 7843785 356777 23 99
+javac Palindrome.java
+javac PalindromeDriver.java
+
+java Palindrome
+
+Input in the below way and followed by Test cases:
+
+Enter all numbers here with space delimeted --> 5 7997 7843785 356777 23 99
 
 Number Received is --> 7997
 
@@ -32,8 +37,7 @@ Its a Palindrome
 
 CASE2: 
 
-Enter all numbers here with space delimeted --> 
-4 -1 11 78385 2000
+Enter all numbers here with space delimeted --> 4 -1 11 78385 2000
 
 Number Received is --> -1
 
