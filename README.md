@@ -1,13 +1,54 @@
-Problem statement
-A palindrome is a word, phrase, number, or other sequence of units that can be read the same way in either direction, with general allowances for adjustments to punctuation and word dividers. 
-For a positive integer P of not more than 1000000 digits, write the value of the smallest palindrome larger than P to output. (Numbers are always displayed without leading zeros.) 
-Ensure that the assignment is submitted with working test cases
-Input 
-The first argument is integer t which is the number of test cases. Followed by t number of positive integers. 
-Output 
-For each P, output the smallest palindrome larger than P. 
-Example 
-Input 
-2 809 2136 
-Output 
-818 2222 
+Please complie the Java code and start the main Driver class by caling java PalindromeDriver.
+
+Pass the inputs on the response from the program in this format "2 809 2136" you can view the results accordingly.
+
+Test cases:
+
+Enter all numbers here with space delimeted --> 
+5 7997 7843785 356777 23 99
+
+Number Received is --> 7997
+
+
+Nearest Palindrome = 7997
+
+Number Received is --> 7843785
+
+<--Invalid Input-->
+
+Number Received is --> 356777
+
+
+Nearest Palindrome = 357753
+
+Number Received is --> 23
+
+
+Nearest Palindrome = 33
+
+Number Received is --> 99
+Its a Palindrome
+
+
+CASE2: 
+
+Enter all numbers here with space delimeted --> 
+4 -1 11 78385 2000
+
+Number Received is --> -1
+
+<--Invalid Input-->
+
+Number Received is --> 11
+
+ Nearest palindrome is 11 
+
+Number Received is --> 78385
+
+
+Nearest Palindrome = 78387
+
+Number Received is --> 2000
+
+
+Nearest Palindrome = 2002
